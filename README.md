@@ -1,5 +1,18 @@
 Decentralized Lottery System
 
+ movement aptos move publish
+Compiling, may take a little while to download git dependencies...
+UPDATING GIT DEPENDENCY https://github.com/aptos-labs/aptos-core.git
+INCLUDING DEPENDENCY AptosFramework
+INCLUDING DEPENDENCY AptosStdlib
+INCLUDING DEPENDENCY MoveStdlib
+BUILDING lottery-project
+package size 482 bytes
+Do you want to submit a transaction for a range of [14200 - 21300] Octas at a gas unit price of 100 Octas? [yes/no] >
+
+Do you want to submit a transaction for a range of [14200 - 21300] Octas at a gas unit price of 100 Octas? [yes/no] >
+yes
+res: Ok("SUCCESS")
 Table of Contents
 Overview
 Features
